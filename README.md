@@ -1,8 +1,8 @@
 <h1>Full Stack Web3 Developer</h1>
 
 <p align="left">
-Nice to meet you! 🤗 <br/>
-I'm very familiar with BlockChain | DApp | Solidity | Rust | NFT marketplace | Web3.js | MERN | MEAN As Full-stack developer | Laravel | Ruby on Rails | Flutter | AWS
+Nice to meet you! 🤗 <br/><br/>
+I am an experienced, product-focused Full Stack Web3 Engineer… a true professional who loves to take ownership and responsibility across the entire full stack web3 technical stack.
 </p>
 
 
