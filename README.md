@@ -93,7 +93,7 @@ I am an experienced, product-focused Full Stack Web3 Engineer… a true professi
 
 ## Contact me:
    Telegram : [@shengang1120](https://t.me/shengang1120)\
-   Discord :  ShenGang#2679\
+   Discord :  shengang1120\
    Email: shengang1120@gmail.com
 
 <!--
